@@ -1,0 +1,6 @@
+rm(list=ls())
+head(iris,3)
+tail(iris,3)
+View(iris)
+summary(iris)
+str(iris)
