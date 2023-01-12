@@ -1,1 +1,5 @@
-test_008
+plot(x,y)
+pairs()
+boxplot()
+hist()
+barplot()
